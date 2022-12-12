@@ -1,0 +1,54 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans',
+    'Droid Sans', 'Helvetica Neue', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+
+.ant-layout {
+  min-height: 100vh;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 30px 20px;
+}
+
+.ant-form {
+  max-width: 500px;
+  margin: 50px auto 0;
+}
+
+.header-title {
+  margin: 0;
+  color: #fff;
+}
+
+.result-title {
+  margin-bottom: 35px;
+  font-size: 26px;
+  text-align: center;
+}
+
+.result-card {
+  max-width: 800px;
+  margin: 0 auto;
+  margin-bottom: 20px;
+  padding: 20px;
+  font-size: 18px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+}
+
+#check-results-card {
+  max-width: 500px;
+  margin-top: 50px;
+  padding: 70px;
+  padding-top: 30px;
+  text-align: center;
+}
